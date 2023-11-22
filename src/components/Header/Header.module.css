@@ -1,0 +1,14 @@
+.Header{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: purple ;
+    height: 60px;
+}
+
+.Header a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding: 0 10px;
+}
